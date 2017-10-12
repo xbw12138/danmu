@@ -13,9 +13,9 @@ AccessKey
 
 -------
 
-![image](http://img.blog.csdn.net/20160819143401645)
-![image](http://img.blog.csdn.net/20160819143417084)
-![image](http://img.blog.csdn.net/20160819143422678)
-![image](http://img.blog.csdn.net/20160819143427288)
+![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143401645)
+![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143417084)
+![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143422678)
+![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143427288)
 
 
