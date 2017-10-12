@@ -13,7 +13,7 @@ AccessKey
 
 -------
 
-![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143401645)
+![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143417084.png)
 ![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143417084)
 ![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143422678)
 ![image](https://github.com/xbw12138/danmu/blob/master/Screenshot/20160819143427288)
